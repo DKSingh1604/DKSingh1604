@@ -4,7 +4,7 @@
 
 <h3 align="center">Techstack</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,bootstrap,tailwind,npm,ts,postman,figma,flutter,dart,c,python,docker,firebase,cpp&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,bootstrap,tailwind,npm,ts,postman,figma,flutter,dart,c,python,docker,firebase,netlify,cpp&perline=8" />
 </p>
 
 <h3 align="center">Connect with me!</h3>
