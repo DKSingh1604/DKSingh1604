@@ -1,6 +1,6 @@
 [![wakatime](https://wakatime.com/badge/user/e755a36a-5cc0-4ce6-85ee-63761b3e1ed3.svg)](https://wakatime.com/@e755a36a-5cc0-4ce6-85ee-63761b3e1ed3)
 
-<h2 align="center">an app developer</h2>
+<h2 align="center">an App Developer</h2>
 
 <h3 align="center">Techstack</h3>
 <p align="center">
