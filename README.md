@@ -11,7 +11,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/dev-karan-singh/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saranshbangar" height="30" width="40" /></a>
   <a href="https://www.geeksforgeeks.org/user/d_k_singh/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="saranshbangar" height="30" width="40" /></a>
-  <a href="https://leetcode.com/u/d_k_singh/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saranshbangar" height="30" width="40" /></a>
   <a href="https://instagram.com/the_d_k_dhillon" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saransh.bangar" height="30" width="40" /></a>
 </p>
 
