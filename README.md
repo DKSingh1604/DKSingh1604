@@ -1,10 +1,10 @@
 [![wakatime](https://wakatime.com/badge/user/e755a36a-5cc0-4ce6-85ee-63761b3e1ed3.svg)](https://wakatime.com/@e755a36a-5cc0-4ce6-85ee-63761b3e1ed3)
 
-<h2 align="center">a Mobile Application Developer</h2>
+<h2 align="center">Mobile and Web Application Developer</h2>
 
 <h3 align="center">Techstack</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,bootstrap,tailwind,npm,ts,postman,figma,flutter,dart,c,python,docker,firebase,supabase,netlify,cpp&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,git,github,vscode,bootstrap,tailwind,npm,ts,postman,figma,flutter,dart,c,python,docker,firebase,supabase,netlify,cpp&perline=8" />
 </p>
 
 <h3 align="center">Connect with me!</h3>
